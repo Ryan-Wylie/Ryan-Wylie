@@ -19,9 +19,9 @@
 
 ### 🧠 About Me
 
-💼 **Software Developer** at [**Noxia Cloud**](https://noxia.cloud) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.  
-⚙️ Passionate about **clean code, low-level performance**, and crafting **intelligent, maintainable software**.  
-🚀 Always exploring **modern technologies**, **automation**, and **innovative cloud solutions**.
+💼 **Software Developer** at [**Noxia Cloud**](https://noxia.cloud) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.
+Passionate about **clean code, low-level performance**, and crafting **intelligent, maintainable software**. Always exploring **modern technologies**, **automation**, 
+and **innovative cloud solutions**.
 
 ---
 
