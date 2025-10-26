@@ -1,6 +1,6 @@
 <!-- 💼 GitHub Profile README for Ryan Wylie -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Ryan Wylie</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Ryan</span></h1>
 <h3 align="center">Software Developer @ <a href="https://noxia.cloud" target="_blank">Noxia Cloud</a></h3>
 
 <p align="center">
