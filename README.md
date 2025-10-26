@@ -72,5 +72,5 @@ When I’m not building systems or exploring new languages, I’m likely experim
 
 ---
 
-<h3 align="center">✨ Crafted with precision — powered by creativity and code ⚙️</h3>
+<h3 align="center"><i>“Code so clean you could eat off it (please don’t).”</i></h3>
 
