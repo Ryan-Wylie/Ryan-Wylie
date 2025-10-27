@@ -33,14 +33,14 @@ and **innovative cloud solutions**.
 
 ### 🏗️ Current Work
 
-- 🔭 Working at **Noxia Cloud** — powering next-gen hosting solutions  
-- 🧩 Developing **backend services**, **API systems**, and **automation tools**  
-- 💡 Contributing to **open-source software** and **internal infrastructure**  
-- 🌐 Check out the org: [github.com/NoxiaCloud](https://github.com/NoxiaCloud)
+-  Working at **Noxia Cloud** — powering next-gen hosting solutions  
+-  Developing **backend services**, **API systems**, and **automation tools**  
+-  Contributing to **open-source software** and **internal infrastructure**  
+-  Check out the org: [github.com/NoxiaCloud](https://github.com/NoxiaCloud)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryan-wylie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
@@ -49,7 +49,7 @@ and **innovative cloud solutions**.
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://noxia.cloud" target="_blank">
@@ -65,7 +65,7 @@ and **innovative cloud solutions**.
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 When I’m not building systems or exploring new languages, I’m likely experimenting with developer tools, fine-tuning performance, or contributing to open-source innovation.
 
 ---
