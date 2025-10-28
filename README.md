@@ -49,22 +49,6 @@ and innovative cloud solutions.
 
 ---
 
-### Connect With Me
-
-<p align="center">
-  <a href="https://noxia.cloud" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/ryan-wylie" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:Ryan.Wylie@noxia.cloud" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### Fun Fact
 When I’m not building systems or exploring new languages, I’m likely experimenting with developer tools, fine-tuning performance, or contributing to open-source innovation.
 
