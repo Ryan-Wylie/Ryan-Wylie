@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 💼 **Software Developer** at [**Noxia Cloud**](https://noxia.cloud) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.
 Passionate about clean code, low-level performance, and crafting intelligent, maintainable software. Always exploring modern technologies, automation, 
@@ -23,7 +23,7 @@ and innovative cloud solutions.
 
 ---
 
-### 🧩 Languages & Technologies
+### Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,lua,js,ts,html,css,cpp,cs,c,rust,bash,git,docker,linux,vscode,react,nodejs" />
@@ -31,7 +31,7 @@ and innovative cloud solutions.
 
 ---
 
-### 🏗️ Current Work
+### Current Work
 
 -  Working at **Noxia Cloud** — powering next-gen hosting solutions  
 -  Developing backend services, API systems, and automation tools
