@@ -1,58 +1,59 @@
-# Ryan Wylie
+Here’s your updated version with **Ryan Wylie + Virtnox**, while keeping the design exactly intact:
 
-Software Developer at Virtnox
+```html
+<h1>Hi There, I'm Ryan Wylie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
----
-
-## About
-
-Software developer working on backend systems, infrastructure tooling, and application development.
-
-I work across multiple languages and stacks depending on what the system needs, with a focus on performance, reliability, and maintainable code.
+I'm a **Technical Director** at [Virtnox](https://virtnox.com), where I lead the design and operation of large-scale hosting and infrastructure platforms. My work focuses on building resilient, high-availability systems, improving deployment pipelines, and scaling production infrastructure across distributed environments. I'm always open to collaborating on impactful technical projects.
+```
 
 ---
 
-## Skills
+# Skill Set :muscle:
 
-Python, TypeScript, JavaScript, C, C++, C#, Rust, Bash, SQL, React, Node.js, Docker, Linux, Git
+These are some of the major technologies that I use or have worked on in the past:
 
----
+**Programming Languages**
 
-## Work
+| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> | <img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
-### Virtnox - Software Developer
+**Libraries and Frameworks**
 
-I build and maintain internal systems for cloud hosting infrastructure.
+| <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> | <img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"> | <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"> | <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">     | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">                     | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">                | <img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">                         | <img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> | <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">          |
 
-- Backend services and APIs  
-- Automation for infrastructure and deployment workflows  
-- Performance and reliability improvements  
-- Internal tooling for engineers and operations  
+**Infrastructure**
 
----
+| <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> | <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"> | <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 
-## Projects
+**Databases**
 
-Add actual projects here. Keep them specific.
+| <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br> |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Example Project
-Short description of what it does.
+**Tools**
 
-- Stack: Python, Node.js, Docker  
-- Focus: automation, backend systems, or performance  
+| <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"> | <img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"> | <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"> |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
----
+<br>
 
-## Focus
+## Some of my stats :bar_chart:
 
-- Backend systems and APIs  
-- Infrastructure tooling and automation  
-- Performance and reliability work  
-- Picking the right tools for the job  
+| <img src="https://github-readme-stats.vercel.app/api?username=ryanwylie&show_icons=true&theme=radical&include_all_commits=true"> | <a href="https://stackoverflow.com/users/story/1234567"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1234567&theme=dark" height="250"></a> |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
----
+<br>
 
-## Contact
+## Let's Connect :handshake:
 
-GitHub: https://github.com/ryan-wylie  
-Email: Ryan.Wylie@virtnox.com
+| <a href="https://www.linkedin.com/in/ryan-wylie-virtnox/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://www.kaggle.com/ryanwylie/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+
+### Here is a random meme for you, to make your day better
+
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/ryanwylie/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
