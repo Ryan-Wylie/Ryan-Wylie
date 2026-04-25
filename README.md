@@ -6,58 +6,49 @@ Software Developer at Virtnox
 
 ## About
 
-I’m a software developer working across backend systems, infrastructure tooling, and application development.
+Software developer working on backend systems, infrastructure tooling, and application development.
 
-I tend to pick whatever stack fits the problem best — from low-level systems work to full-stack web applications — with a focus on performance, reliability, and maintainability.
+I work across multiple languages and stacks depending on what the system needs, with a focus on performance, reliability, and maintainable code.
 
 ---
 
-## Skills & Technologies
+## Skills
 
-I work across a wide range of languages and tools, including:
-
-- Python, TypeScript, JavaScript
-- C, C++, Rust, C#
-- Bash / Shell scripting
-- SQL
-- React, Node.js
-- Docker, Linux, Git
-
-I’m comfortable moving between stacks depending on system requirements rather than locking into a single ecosystem.
+Python, TypeScript, JavaScript, C, C++, C#, Rust, Bash, SQL, React, Node.js, Docker, Linux, Git
 
 ---
 
 ## Work
 
-### Virtnox — Software Developer
+### Virtnox - Software Developer
 
-I work on internal systems and infrastructure tooling for cloud hosting environments.
+I build and maintain internal systems for cloud hosting infrastructure.
 
-- Backend services and API development  
-- Automation tooling for infrastructure workflows  
+- Backend services and APIs  
+- Automation for infrastructure and deployment workflows  
 - Performance and reliability improvements  
-- Internal developer tooling and systems support  
+- Internal tooling for engineers and operations  
 
 ---
 
 ## Projects
 
-### Infrastructure / Systems Work
-Work focused on backend services, automation, and performance-critical systems.
+Add actual projects here. Keep them specific.
 
-### Application Development
-Web and tooling projects across different stacks depending on requirements.
+### Example Project
+Short description of what it does.
 
-(You can replace these with actual project names — this section will matter most if you want impact.)
+- Stack: Python, Node.js, Docker  
+- Focus: automation, backend systems, or performance  
 
 ---
 
 ## Focus
 
-- Building systems that stay stable under load  
-- Designing clean, maintainable backend architectures  
-- Automating repetitive infrastructure tasks  
-- Choosing the right tool for the job rather than forcing a stack  
+- Backend systems and APIs  
+- Infrastructure tooling and automation  
+- Performance and reliability work  
+- Picking the right tools for the job  
 
 ---
 
