@@ -1,53 +1,58 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Ryan</span></h1>
-<h3 align="center">Software Developer @ <a href="https://noxia.cloud" target="_blank">Virtnox</a></h3>
+# Ryan Wylie
 
-<p align="center">
-  <a href="https://github.com/virtnox">
-    <img src="https://img.shields.io/badge/Virtnox-%2300aaff.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-  <a href="mailto:Ryan.Wylie@virtnox.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ryan-wylie">
-    <img src="https://img.shields.io/github/followers/ryanwylie?label=Follow&style=for-the-badge" />
-  </a>
-</p>
+Software Developer at Virtnox
 
 ---
 
-### About Me
+## About
 
-💼 **Software Developer** at [**Virtnox**](https://virtnox.com) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.
-Passionate about clean code, low-level performance, and crafting intelligent, maintainable software. Always exploring modern technologies, automation, 
-and innovative cloud solutions.
+Software developer working on backend systems, infrastructure tooling, and automation for cloud-based platforms at Virtnox.
 
----
-
-### Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,js,ts,html,css,cpp,cs,c,rust,bash,git,docker,linux,vscode,react,nodejs" />
-</p>
+I focus on writing reliable, maintainable software and improving system performance where it matters.
 
 ---
 
-### Current Work
+## Skills
 
--  Working at **Virtnox** — powering next-gen hosting solutions  
--  Developing backend services, API systems, and automation tools
--  Contributing to open-source software and internal infrastructure  
--  Check out the org: [github.com/virtnox](https://github.com/virtnox)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryan-wylie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wylie&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+- Python
+- TypeScript / JavaScript
+- C / C++
+- Rust
+- Bash
+- SQL
+- Docker
+- Linux
+- React
+- Node.js
+- Git
 
 ---
 
-<h3 align="center"><i>“Code so clean you could eat off it (please don’t).”</i></h3>
+## Work
 
+### Virtnox
+Software Developer
+
+- Build and maintain backend services and internal APIs
+- Develop automation tools for infrastructure management
+- Work on performance and reliability improvements across systems
+- Contribute to internal tooling used in hosting infrastructure
+
+---
+
+## Projects
+
+(Add real projects here — keep them short and factual)
+
+### Project Name
+Brief description of what it does and what problem it solves.
+
+- Tech: (stack)
+- Focus: (performance / automation / tooling / etc.)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/ryan-wylie
+- Email: Ryan.Wylie@virtnox.com
