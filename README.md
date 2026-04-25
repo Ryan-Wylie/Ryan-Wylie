@@ -2,10 +2,10 @@
 <h3 align="center">Software Developer @ <a href="https://noxia.cloud" target="_blank">Virtnox</a></h3>
 
 <p align="center">
-  <a href="https://github.com/NoxiaCloud">
+  <a href="https://github.com/virtnox">
     <img src="https://img.shields.io/badge/Noxia_Cloud-%2300aaff.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
   </a>
-  <a href="mailto:Ryan.Wylie@noxia.cloud">
+  <a href="mailto:Ryan.Wylie@virtnox.com">
     <img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ryan-wylie">
