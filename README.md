@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Ryan</span></h1>
-<h3 align="center">Software Developer @ <a href="https://noxia.cloud" target="_blank">Noxia Cloud</a></h3>
+<h3 align="center">Software Developer @ <a href="https://noxia.cloud" target="_blank">Virtnox</a></h3>
 
 <p align="center">
   <a href="https://github.com/NoxiaCloud">
@@ -17,7 +17,7 @@
 
 ### About Me
 
-💼 **Software Developer** at [**Noxia Cloud**](https://noxia.cloud) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.
+💼 **Software Developer** at [**Virtnox**](https://virtnox.com) — building high-performance systems and developer tools for scalable hosting and cloud infrastructure.
 Passionate about clean code, low-level performance, and crafting intelligent, maintainable software. Always exploring modern technologies, automation, 
 and innovative cloud solutions.
 
@@ -33,10 +33,10 @@ and innovative cloud solutions.
 
 ### Current Work
 
--  Working at **Noxia Cloud** — powering next-gen hosting solutions  
+-  Working at **Virtnox** — powering next-gen hosting solutions  
 -  Developing backend services, API systems, and automation tools
 -  Contributing to open-source software and internal infrastructure  
--  Check out the org: [github.com/NoxiaCloud](https://github.com/NoxiaCloud)
+-  Check out the org: [github.com/virtnox](https://github.com/virtnox)
 
 ---
 
@@ -46,11 +46,6 @@ and innovative cloud solutions.
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryan-wylie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-wylie&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
-
-### Fun Fact
-When I’m not building systems or exploring new languages, I’m likely experimenting with developer tools, fine-tuning performance, or contributing to open-source innovation.
 
 ---
 
