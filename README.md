@@ -1,10 +1,7 @@
-Here’s your updated version with **Ryan Wylie + Virtnox**, while keeping the design exactly intact:
 
-```html
 <h1>Hi There, I'm Ryan Wylie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Technical Director** at [Virtnox](https://virtnox.com), where I lead the design and operation of large-scale hosting and infrastructure platforms. My work focuses on building resilient, high-availability systems, improving deployment pipelines, and scaling production infrastructure across distributed environments. I'm always open to collaborating on impactful technical projects.
-```
 
 ---
 
